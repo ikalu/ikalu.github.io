@@ -14,7 +14,7 @@ body {
 .business-header {
     height: 400px;
     background-color: red;
-    background: url('~/assets/wp.JPG') center center no-repeat scroll;
+    background: url('./assets/wp.JPG') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
